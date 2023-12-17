@@ -7,7 +7,7 @@ In this case study, I will perform many real-world tasks of a junior data analys
 [Prepare](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#prepare), 
 [Process](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#process),
 [Analyze](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#analyze-and-share),
-[Share](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.mdd#analyze-and-share),and 
+[Share](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#analyze-and-share),and 
 [Act](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#act).
 
 ### Quick links:
