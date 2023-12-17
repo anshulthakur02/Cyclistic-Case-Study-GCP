@@ -78,7 +78,7 @@ SQL Query: [Data Cleaning](https://github.com/anshulthakur02/Cyclistic-Case-Stud
   
 ## Analyze and Share
 SQL Query: [Data Analysis](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/Data%20Analysis.sql)  
-Data Visualization: [Tableau](https://public.tableau.com/app/profile/somia.nasir/viz/bike-tripdata-casestudy/Dashboard1#1)  
+  
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
 
