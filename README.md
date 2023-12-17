@@ -8,7 +8,7 @@ In this case study, I will perform many real-world tasks of a junior data analys
 [Process](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#process),
 [Analyze](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#analyze-and-share),
 [Share](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.mdd#analyze-and-share),and 
-[Act](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#act).
+[Act](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#act).
 
 ### Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 04/03/23]
