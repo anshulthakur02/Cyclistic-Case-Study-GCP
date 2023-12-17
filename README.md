@@ -3,11 +3,11 @@
 ## Introduction
 
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. In order to answer the key business questions, I will follow the steps of the data analysis process:
-[Ask](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/edit/main/README.md#ask), 
-[Prepare](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/edit/main/README.md#prepare), 
-[Process](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/edit/main/README.md#process),
-[Analyze](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/edit/main/README.md#analyze-and-share),
-[Share](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/edit/main/README.mdd#analyze-and-share),and 
+[Ask](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#ask), 
+[Prepare](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#prepare), 
+[Process](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#process),
+[Analyze](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.md#analyze-and-share),
+[Share](https://github.com/anshulthakur02/Cyclistic-Case-Study-GCP/blob/main/README.mdd#analyze-and-share),and 
 [Act](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#act).
 
 ### Quick links:
